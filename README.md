@@ -6,13 +6,16 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-Active-success.svg?style=for-the-badge)
-
-*Complete solutions and documentation for KodeKloud Engineer Terraform Level 1 tasks*
+![Status](https://img.shields.io/badge/status-In%20Progress-yellow.svg?style=for-the-badge)
+![Tasks](https://img.shields.io/badge/Tasks-2/40%20Complete-brightgreen.svg?style=for-the-badge)
+```
 
 [🔗 KodeKloud Platform](https://kodekloud.com) | [📚 Documentation](#documentation) | [🏗️ Tasks Overview](#tasks-overview) | [🚀 Getting Started](#getting-started)
 
 </div>
+
+
+
 
 ---
 
@@ -395,3 +398,4 @@ copies or substantial portions of the Software.
 
 </div>
 ```
+
