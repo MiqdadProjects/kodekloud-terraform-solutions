@@ -18,7 +18,6 @@
 [![Getting Started](https://img.shields.io/badge/🚀_Quick-Start-red?style=flat-square)](#getting-started)
 
 </div>
-
 ---
 
 ## 🎯 Mission Statement
@@ -539,4 +538,5 @@ copies of the Software.
 
 </div>
 ```
+
 
