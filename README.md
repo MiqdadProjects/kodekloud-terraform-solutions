@@ -1,3 +1,4 @@
+```markdown
 # 🚀 KodeKloud Engineer - Terraform Level 1 Solutions
 
 <div align="center">
@@ -7,7 +8,7 @@
 ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure-as%20Code-blue?style=for-the-badge&logo=hashicorp&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![Tasks Progress](https://img.shields.io/badge/Progress-2%2F40-orange?style=for-the-badge)
+![Tasks Progress](https://img.shields.io/badge/Progress-10%2F40-yellow?style=for-the-badge)
 
 *Master Infrastructure as Code with Production-Ready Terraform Solutions*
 
@@ -39,7 +40,6 @@ This repository provides **comprehensive, production-ready solutions** for all 4
 <div align="center">
 
 ### 🛤️ Your Infrastructure as Code Path
-
 ```mermaid
 graph LR
     A[🔑 Foundations] --> B[🌐 Networking]
@@ -54,8 +54,8 @@ graph LR
 
 | Phase | Skills Gained | Tasks | Completion |
 |-------|---------------|--------|------------|
-| **🔑 Foundation** | Key Pairs, Security Groups, VPC Basics | 1-5 | ![2/5](https://progress-bar.dev/40?title=2/5) |
-| **🌐 Networking** | EIPs, EC2, AMIs, Storage | 6-10 | ![0/5](https://progress-bar.dev/0?title=0/5) |
+| **🔑 Foundation** | Key Pairs, Security Groups, VPC Basics | 1-5 | ![5/5](https://progress-bar.dev/100?title=5/5) |
+| **🌐 Networking** | EIPs, EC2, AMIs, Storage | 6-10 | ![5/5](https://progress-bar.dev/100?title=5/5) |
 | **📊 Monitoring** | CloudWatch, S3, IAM Basics | 11-15 | ![0/5](https://progress-bar.dev/0?title=0/5) |
 | **🔐 Identity** | Advanced IAM, DynamoDB, SNS | 16-20 | ![0/5](https://progress-bar.dev/0?title=0/5) |
 | **⚡ Advanced** | CloudFormation, OpenSearch, Secrets | 21-25 | ![0/5](https://progress-bar.dev/0?title=0/5) |
@@ -74,9 +74,9 @@ graph LR
 |---|-----------|--------|------------|-------------|
 | 1 | [**Create Key Pair**](./tasks/task-01-aws-key-pair.md) | ✅ **Done** | 🟢 Basic | Generate RSA key pairs for secure EC2 access |
 | 2 | [**Create Security Group**](./tasks/task-02-aws-security-group.md) | ✅ **Done** | 🟢 Basic | Configure network security rules and firewall policies |
-| 3 | **Create VPC** | 🔒 Locked | 🟡 Intermediate | Build Virtual Private Cloud infrastructure |
-| 4 | **Create VPC with CIDR** | 🔒 Locked | 🟡 Intermediate | Advanced VPC with custom CIDR blocks |
-| 5 | **Create VPC with IPv6** | 🔒 Locked | 🔴 Advanced | Enable dual-stack IPv4/IPv6 networking |
+| 3 | [**Create VPC**](./tasks/task-03-create-vpc.md) | ✅ **Done** | 🟡 Intermediate | Build Virtual Private Cloud infrastructure |
+| 4 | [**Create VPC with CIDR**](./tasks/task-04-create-vpc-with-cidr.md) | ✅ **Done** | 🟡 Intermediate | Advanced VPC with custom CIDR blocks |
+| 5 | [**Create VPC with IPv6**](./tasks/task-05-create-vpc-with-ipv6.md) | ✅ **Done** | 🔴 Advanced | Enable dual-stack IPv4/IPv6 networking |
 
 </details>
 
@@ -85,11 +85,11 @@ graph LR
 
 | # | Task Name | Status | Complexity | Description |
 |---|-----------|--------|------------|-------------|
-| 6 | **Create Elastic IP** | 🔒 Locked | 🟢 Basic | Manage static IP addresses for resilient architectures |
-| 7 | **Create EC2 Instance** | 🔒 Locked | 🟡 Intermediate | Deploy and configure virtual servers with best practices |
-| 8 | **Create AMI** | 🔒 Locked | 🟡 Intermediate | Build custom Amazon Machine Images for replication |
-| 9 | **Create EBS Volume** | 🔒 Locked | 🟢 Basic | Configure persistent block storage solutions |
-| 10 | **Create Snapshot** | 🔒 Locked | 🟢 Basic | Implement backup strategies for data protection |
+| 6 | [**Create Elastic IP**](./tasks/task-06-create-elastic-ip.md) | ✅ **Done** | 🟢 Basic | Manage static IP addresses for resilient architectures |
+| 7 | [**Create EC2 Instance**](./tasks/task-07-create-ec2-instance.md) | ✅ **Done** | 🟡 Intermediate | Deploy and configure virtual servers with best practices |
+| 8 | [**Create AMI**](./tasks/task-08-create-ami.md) | ✅ **Done** | 🟡 Intermediate | Build custom Amazon Machine Images for replication |
+| 9 | [**Create EBS Volume**](./tasks/task-09-create-ebs-volume.md) | ✅ **Done** | 🟢 Basic | Configure persistent block storage solutions |
+| 10 | [**Create Snapshot**](./tasks/task-10-create-snapshot.md) | ✅ **Done** | 🟢 Basic | Implement backup strategies for data protection |
 
 </details>
 
@@ -205,7 +205,6 @@ graph LR
 </table>
 
 ### ⚡ Lightning Setup (60 seconds)
-
 ```bash
 # 1️⃣ Clone Repository
 git clone https://github.com/MiqdadProjects/kodekloud-terraform-solutions.git
@@ -252,7 +251,6 @@ terraform init && terraform plan && terraform apply
 ### 📖 Documentation Structure
 
 Each task follows our proven learning framework:
-
 ```
 🌟 [Task Title] - Clear, Action-Oriented
 ├── 📌 Task Description - KodeKloud requirements
@@ -308,7 +306,6 @@ Each task follows our proven learning framework:
 </table>
 
 ### 📊 Code Quality Framework
-
 ```yaml
 Standards Applied:
   ✅ Terraform Formatting: terraform fmt
@@ -344,7 +341,6 @@ Standards Applied:
 ## 🛠️ Advanced Features
 
 ### 🔍 Smart Navigation
-
 ```bash
 # 🎯 Jump to specific topics
 ├── find . -name "*security*" -type f    # Security-related tasks
@@ -358,7 +354,6 @@ Standards Applied:
 
 <details>
 <summary><b>🔬 Comprehensive Validation Suite</b> - Click to expand</summary>
-
 ```bash
 # 🚀 Quick Validation
 ./scripts/validate-task.sh task-01    # Single task validation
@@ -382,7 +377,6 @@ infracost breakdown --path ./tasks/   # Cost estimation
 
 <details>
 <summary><b>📈 Study Tools & Resources</b> - Click to expand</summary>
-
 ```yaml
 Learning Resources:
   📚 Cheat Sheets: Quick reference for Terraform & AWS
@@ -469,17 +463,16 @@ Learning Resources:
 
 | Metric | Current | Target | Status |
 |--------|---------|--------|---------|
-| **Tasks Completed** | 2/40 | 40/40 | ![5%](https://progress-bar.dev/5?title=5%) |
+| **Tasks Completed** | 10/40 | 40/40 | ![25%](https://progress-bar.dev/25?title=25%) |
 | **Documentation Quality** | 95% | 100% | ![95%](https://progress-bar.dev/95) |
 | **Code Coverage** | 100% | 100% | ![100%](https://progress-bar.dev/100) |
 | **Community Engagement** | Growing | 1000+ | ![Active](https://progress-bar.dev/25?title=Growing) |
 
 </div>
 
-
+---
 
 ## 🚀 What's Next?
-
 
 ### 🎯 Roadmap
 
@@ -499,7 +492,6 @@ Learning Resources:
 ### 📄 MIT License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for complete details.
-
 ```
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -546,4 +538,4 @@ copies of the Software.
 *Made with ❤️ for the DevOps Community*
 
 </div>
-
+```
