@@ -1,4 +1,3 @@
-```markdown
 # 🚀 KodeKloud Engineer - Terraform Level 1 Solutions
 
 <div align="center">
@@ -18,6 +17,7 @@
 [![Getting Started](https://img.shields.io/badge/🚀_Quick-Start-red?style=flat-square)](#getting-started)
 
 </div>
+
 ---
 
 ## 🎯 Mission Statement
@@ -39,6 +39,7 @@ This repository provides **comprehensive, production-ready solutions** for all 4
 <div align="center">
 
 ### 🛤️ Your Infrastructure as Code Path
+
 ```mermaid
 graph LR
     A[🔑 Foundations] --> B[🌐 Networking]
@@ -50,6 +51,7 @@ graph LR
 ```
 
 </div>
+
 
 | Phase | Skills Gained | Tasks | Completion |
 |-------|---------------|--------|------------|
@@ -538,5 +540,6 @@ copies of the Software.
 
 </div>
 ```
+
 
 
