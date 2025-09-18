@@ -7,7 +7,7 @@
 ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure-as%20Code-blue?style=for-the-badge&logo=hashicorp&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![Tasks Progress](https://img.shields.io/badge/Progress-2%2F40-orange?style=for-the-badge)
+![Tasks Progress](https://img.shields.io/badge/Progress-12%2F40-orange?style=for-the-badge)
 
 *Master Infrastructure as Code with Production-Ready Terraform Solutions*
 
@@ -540,6 +540,7 @@ copies of the Software.
 
 </div>
 ```
+
 
 
 
