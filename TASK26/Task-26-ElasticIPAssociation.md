@@ -46,7 +46,7 @@ The **Nautilus DevOps team** is optimizing their AWS infrastructure as part of a
 
 ## 🚀 Implementation Steps
 
-### Step 1: Identify Existing Resources
+### Step 1: Identify Existing Resources if you are implementing this task on cloud for practice
 
 Since the task implies that the `nautilus-ec2` instance and `nautilus-ec2-eip` Elastic IP already exist, retrieve their IDs using AWS CLI.
 
