@@ -1,4 +1,3 @@
-````markdown
 # 🚀 KodeKloud Engineer - Terraform Level 1 Solutions
 
 <div align="center">
@@ -50,14 +49,14 @@ graph LR
 
 | Phase | Skills Gained | Tasks | Completion |
 |-------|---------------|--------|------------|
-| **🔑 Foundation** | Key Pairs, Security Groups, VPC Basics | 1-5 | ![5/5](https://progress-bar.dev/100?title=5/5) |
-| **🌐 Networking** | EIPs, EC2, AMIs, Storage | 6-10 | ![5/5](https://progress-bar.dev/100?title=5/5) |
-| **📊 Monitoring** | CloudWatch, S3, IAM Basics | 11-15 | ![5/5](https://progress-bar.dev/100?title=5/5) |
-| **🔐 Identity** | Advanced IAM, DynamoDB, SNS | 16-20 | ![0/5](https://progress-bar.dev/0?title=0/5) |
-| **⚡ Advanced** | CloudFormation, OpenSearch, Secrets | 21-25 | ![0/5](https://progress-bar.dev/0?title=0/5) |
-| **🔧 Management** | Resource Lifecycle, S3 Advanced | 26-30 | ![0/5](https://progress-bar.dev/0?title=0/5) |
-| **🗑️ Cleanup** | Safe Resource Removal | 31-35 | ![0/5](https://progress-bar.dev/0?title=0/5) |
-| **📝 Variables** | Dynamic Infrastructure | 36-40 | ![5/5](https://progress-bar.dev/100?title=5/5) |
+| **🔑 Foundation** | Key Pairs, Security Groups, VPC Basics | 1-5 | ![5/5](https://geps.dev/progress/100?title=5/5) |
+| **🌐 Networking** | EIPs, EC2, AMIs, Storage | 6-10 | ![5/5](https://geps.dev/progress/100?title=5/5) |
+| **📊 Monitoring** | CloudWatch, S3, IAM Basics | 11-15 | ![5/5](https://geps.dev/progress/100?title=5/5) |
+| **🔐 Identity** | Advanced IAM, DynamoDB, SNS | 16-20 | ![0/5](https://geps.dev/progress/0?title=0/5) |
+| **⚡ Advanced** | CloudFormation, OpenSearch, Secrets | 21-25 | ![0/5](https://geps.dev/progress/0?title=0/5) |
+| **🔧 Management** | Resource Lifecycle, S3 Advanced | 26-30 | ![0/5](https://geps.dev/progress/0?title=0/5) |
+| **🗑️ Cleanup** | Safe Resource Removal | 31-35 | ![0/5](https://geps.dev/progress/0?title=0/5) |
+| **📝 Variables** | Dynamic Infrastructure | 36-40 | ![5/5](https://geps.dev/progress/100?title=5/5) |
 
 ---
 
@@ -306,10 +305,10 @@ Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
 
 | Metric | Current | Target | Status |
 |--------|---------|--------|---------|
-| **Tasks Completed** | 40/40 | 40/40 | ![100%](https://progress-bar.dev/100?title=100%) |
-| **Documentation Quality** | 95% | 100% | ![95%](https://progress-bar.dev/95) |
-| **Code Coverage** | 100% | 100% | ![100%](https://progress-bar.dev/100) |
-| **Community Engagement** | Growing | 1000+ | ![Active](https://progress-bar.dev/25?title=Growing) |
+| **Tasks Completed** | 40/40 | 40/40 | ![100%](https://geps.dev/progress/100?title=100%) |
+| **Documentation Quality** | 95% | 100% | ![95%](https://geps.dev/progress/95) |
+| **Code Coverage** | 100% | 100% | ![100%](https://geps.dev/progress/100) |
+| **Community Engagement** | Growing | 1000+ | ![Active](https://geps.dev/progress/25?title=Growing) |
 
 </div>
 
@@ -368,4 +367,3 @@ copies of the Software.
 *Made with dedication for the DevOps Community*
 
 </div>
-````
